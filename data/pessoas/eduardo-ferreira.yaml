@@ -1,0 +1,20 @@
+weight: 7
+name: "Eduardo Vargas Ferreira"
+image: "../img/people/eduardo-ferreira.jpg"
+url: "http://www.est.ufpr.br/prof/06-eduardo.html"
+email: "e.ferreira@ufpr.br"
+lattes: "http://lattes.cnpq.br/6295059687055801"
+researchgate: "https://www.researchgate.net/scientific-contributions/2123639888_Eduardo_Vargas_Ferreira"
+# linkedin: ""
+github: "https://github.com/eduardoleg"
+description: |
+profession: Professor, UFPR (2014 -- atual)
+institution: Departamento de Estatística
+education: |
+  * Mestrado em Estatística, Universidade Estadual de Campinas
+    (2014).
+domains: |
+  * Métodos estatísticos
+  * Inteligência computacional.
+interests: |
+  * Machine learning.

@@ -1,0 +1,21 @@
+weight: 14
+name: "Paulo Justiniano Ribeiro Jr"
+image: "../img/people/paulo-justiniano.jpg"
+url: "http://www.leg.ufpr.br/~paulojus/"
+email: "paulojus@ufpr.br"
+lattes: "http://lattes.cnpq.br/0852938701434556"
+researchgate: "https://www.researchgate.net/profile/Paulo_Ribeiro_Jr"
+# linkedin: ""
+# github: ""
+profession: Professor, UFPR (1992 -- atual)
+institution: Departamento de Estatística
+education: |
+  * Mestrado em Agronomia, Universidade de São Paulo (1992).
+  * PhD Statistics, Lancaster University (2002).
+domains: |
+  * Métodos estatísticos.
+  * Inteligência computacional.
+interests: |
+  * Modelagem estatística.
+  * Estatística espacial.
+  * Estatística computacional.

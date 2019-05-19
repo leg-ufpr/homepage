@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+
+body {
+   font-family: 'Fira Sans', sans-serif;
+}
+
+#heading-breadcrumbs h1 {
+    color: #ffffff;
+    letter-spacing: 0em;
+    text-shadow: black 0px 0px 1em;
+}
+
+#heading-breadcrumbs {
+    background: url('../img/voronoi.png')   center center repeat;
+    padding: 1px 0;
+    margin-bottom: 40px;
+}
+
+#footer {
+    margin-top: 2em;
+}
+
+#course,
+#teaching,
+#project,
+#talk {
+    margin-bottom: 10em;
+}
+
+code {
+    color: inherit;
+}
+
+i.off {
+    color: #c0c0c0;
+}
+
+table.skills {
+    margin-left: 0.5em;
+}
+
+table.skills td {
+    padding: 0px 0.5ex;
+}
+
+ul.ul-edu li:hover,
+ul.ul-interests li:hover,
+table.skills tr:hover {
+    color: var(--wz-color1);
+}
+
+.ul-interests, .ul-edu {
+    text-align: left;
+}
+
+/* ul.ul-edu li .description p.institution {
+    font-size: 90%;
+} */
+
+.box {
+    background: unset;
+    border: unset;
+}
+
+p.institution {
+    margin: -0.75em 0 10px;
+}
+
+.box-simple .icon,
+.box-simple h3 {
+    color: var(--wz-color6);
+    border-color: var(--wz-color6);
+}
+
+.box-simple:hover .icon,
+.box-simple:hover h3 {
+    color: var(--wz-color1);
+    border-color: var(--wz-color1);
+}
+
+.text-uppercase,
+.box-simple h3,
+.heading h1,
+.heading h2,
+.heading h3,
+.heading h4,
+.heading h5 {
+    letter-spacing: 0em;
+}
+
+.navbar ul.nav > li > a {
+    font-weight: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0em;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #DDD;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    border: 1px solid #DDD;
+    border-bottom-color: transparent;
+}
+
+.tab-content {
+    border: unset;
+}
+
+/*---------------------------------------------------------------------- */
+
+ul ul,
+ol ul,
+ul ol {
+    padding-left: 18px;
+}
+
+ul:not([class]) > li,
+ul.ul-interests > li {
+    list-style: none;
+}
+
+ul:not([class]) > li::before,
+ul.ul-interests > li::before {
+    content: '\25B8';
+    margin-left: -1em;
+    position: absolute;
+    /* color: var(--wz-color1); */
+}
+
+/*---------------------------------------------------------------------- */
+
+a.navbar-brand img {
+    max-width: 150px !important;
+}
+
+img.projects {
+    height: 240px;
+    max-width: 300px;
+    display: block;
+    margin: auto;
+}
+
+img.courses {
+    max-width:100%;
+    max-height:100%;
+    display: block;
+    margin: auto;
+}
+
+img.talks {
+    max-width:100%;
+    max-height:100%;
+    display: block;
+    margin: auto;
+}
+
+img:hover.shadow {
+    -moz-box-shadow: 1px 1px 5px #999999;
+    -webkit-box-shadow: 1px 1px 5px #999999;
+    box-shadow: 1px 1px 5px #999999;
+}
+
+img:hover.zoomout {
+    -webkit-transform: scale(0.95, 0.95);
+    -ms-transform: scale(0.95, 0.95);
+    -o-transform: scale(0.95, 0.95);
+    transform: scale(0.95, 0.95);
+}
+
+/*---------------------------------------------------------------------- */
+
+.btn {
+    padding: 1px 5px;
+}
+
+.btn-primary:hover,
+.btn-primary.focus,
+.btn-primary:focus {
+    color: white;
+    background-color: var(--wz-color1);
+    border-color: #fff;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: var(--wz-color6);
+    border-color: #fff;
+    font-size: 80%;
+}
+
+.btn {
+    letter-spacing: 0em;
+    text-transform: none;
+    font-weight: 400;
+}
+
+.card-body {
+    margin-top: 0.5em;
+    padding-bottom: 1em;
+}
+
+/*---------------------------------------------------------------------- */

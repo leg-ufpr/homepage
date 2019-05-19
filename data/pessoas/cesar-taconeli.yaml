@@ -1,0 +1,22 @@
+weight: 4
+name: "Cesar Augusto Taconeli"
+image: "../img/people/cesar-taconeli.jpg"
+url: "https://docs.ufpr.br/~taconeli/"
+email: "taconeli@ufpr.br"
+lattes: "http://lattes.cnpq.br/3614331382746575"
+researchgate: "https://www.researchgate.net/profile/Cesar_Taconeli/publications"
+linkedin: "https://www.linkedin.com/in/cesar-taconeli-5b5814ba/"
+# github: ""
+profession: Professor, UFPR (2008 -- atual)
+institution: Departamento de Estatística
+education: |
+  - Mestrado em Estatística, Universidade Federal de São Carlos
+    (2005).
+  - Doutorado em Estatística e Experimentação Agronômica,
+    Universidade de São Paulo (2008).
+domains: |
+  - Métodos estatísticos.
+  - Inteligência computacional.
+interests: |
+  - Controle estatístico de qualidade.
+  - Modelos lineares generalizados.

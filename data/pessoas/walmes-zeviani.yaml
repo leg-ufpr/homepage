@@ -1,0 +1,29 @@
+weight: 1
+name: "Walmes Marques Zeviani"
+image: "../img/people/walmes-zeviani.jpg"
+url: "http://www.leg.ufpr.br/~walmes"
+email: "walmes@ufpr.br"
+lattes: "http://lattes.cnpq.br/4410617539281650"
+researchgate: "https://www.researchgate.net/profile/Walmes_Zeviani2"
+linkedin: "https://www.linkedin.com/in/walmes-marques-zeviani-41b8b650/"
+github: "https://github.com/walmes"
+# homepage: "http://www.leg.ufpr.br/~walmes"
+# scholar: ""
+# orcid: ""
+# mendeley: ""
+# twitter: ""
+# gitlab: ""
+profession: Professor, UFPR (2010 -- atual)
+institution: Departamento de Estatística
+education: |
+  - Mestrado em Estatística & Experimentação Agropecuária,
+    Universidade Federal de Lavras (2009).
+  - Doutorado em Estatística & Experimentação Agropecuária,
+    Universidade Federal de Lavras (2013).
+domains: |
+  - Métodos estatísticos.
+  - Inteligência computacional.
+interests: |
+  - Estatística computacional.
+  - Mineração e análise de texto.
+  - Desenho de experimentos.

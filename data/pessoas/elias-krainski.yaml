@@ -1,0 +1,24 @@
+weight: 8
+name: "Elias Teixeira Krainski"
+image: "../img/people/elias-krainski.jpg"
+url: "http://www.leg.ufpr.br/~elias/"
+email: "eliaskr@ufpr.br"
+lattes: "http://lattes.cnpq.br/4628634530993075"
+researchgate: "https://www.researchgate.net/profile/Elias_Krainski"
+linkedin: "https://www.linkedin.com/in/elias-krainski-55b67aa7/"
+github: "https://github.com/eliaskrainski"
+description: |
+profession: Professor, UFPR (2009 -- atual)
+institution: Departamento de Estatística
+education: |
+  * Mestrado em Estatística, Universidade Federal de Minas Gerais
+    (2013).
+  * PhD Mathematical Sciences, Norwegian University of Science and
+    Technology (2018).
+domains: |
+  * Métodos estatísticos.
+  * Inteligência computacional.
+interests: |
+  * Estatística espacial.
+  * Modelos espaço-temporais.
+  * Inferência bayesiana com INLA.

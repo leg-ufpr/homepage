@@ -1,0 +1,23 @@
+weight: 0
+name: "Wagner Hugo Bonat"
+image: "../img/people/wagner-bonat.jpg"
+url: "http://www.leg.ufpr.br/~wagner"
+email: "wbonat@ufpr.br"
+lattes: "http://lattes.cnpq.br/5010022819750220"
+researchgate: "https://www.researchgate.net/profile/Wagner_Bonat2"
+linkedin: "https://www.researchgate.net/profile/Wagner_Bonat2"
+github: "https://github.com/wbonat"
+profession: Professor, UFPR (2010 -- atual)
+institution: Departamento de Estatística
+education: |
+  * Mestrado em Métodos Numéricos em Engenharia, Universidade Federal
+    do Paraná (2010).
+  * PhD Mathematics and Computer Science, University of Southern
+    Denmark (2016).
+domains: |
+  * Métodos estatísticos.
+  * Inteligência computacional.
+interests: |
+  * Modelagem estatística.
+  * Modelos multivariados de dispersão.
+  * Inferência estatística em alta dimensão.

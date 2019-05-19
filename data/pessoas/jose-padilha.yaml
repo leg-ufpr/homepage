@@ -1,0 +1,25 @@
+weight: 10
+name: "José Luiz Padilha da Silva"
+image: "../img/people/jose-padilha.jpg"
+url: "https://docs.ufpr.br/~jlpadilha/"
+email: "jlpadilha@ufpr.br"
+lattes: "http://lattes.cnpq.br/3046124981984913"
+researchgate: "https://www.researchgate.net/profile/Jose_Padilha"
+linkedin: "https://www.linkedin.com/in/jos%C3%A9-luiz-padilha-da-silva-72a89047/"
+# github: ""
+profession: Professor, UFPR (2017 -- atual)
+institution: Departamento de Estatística
+education: |
+  * Mestrado em Estatística, Universidade Federal de Minas Gerais
+    (2011).
+  * Doutorado em Estatística, Universidade Federal de Minas Gerais
+    (2015).
+  * Post-doc Ciências da Saúde, Universidade Federal de Minas Gerais
+    (2016).
+domains: |
+  * Métodos estatísticos.
+  * Inteligência computacional.
+interests: |
+  * Modelagem estatística.
+  * Análise de sobrevivência.
+  * Análise de dados categóricos.

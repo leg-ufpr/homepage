@@ -1,0 +1,23 @@
+weight: 9
+name: "Fernando de Pol Mayer"
+image: "../img/people/fernando-mayer.jpg"
+url: "http://www.leg.ufpr.br/~fernandomayer/"
+email: "fernando.mayer@ufpr.br"
+lattes: "http://lattes.cnpq.br/2222077812442414"
+researchgate: "https://www.researchgate.net/profile/Fernando_Mayer"
+linkedin: "https://www.linkedin.com/in/fernandomayer/"
+github: "https://github.com/fernandomayer"
+profession: Professor, UFPR (2015 -- atual)
+institution: Departamento de Estatística
+education: |
+  * Mestrado em Ecologia, Universidade Federal de Santa Catarina
+    (2011).
+  * Doutorado em Estatística e Experimentação Agronômica, Universidade
+    de São Paulo (2019).
+domains: |
+  * Métodos estatísticos.
+  * Inteligência computacional.
+interests: |
+  * Modelagem estatística.
+  * Estatística computacional.
+  * Pesquisa reproduzível.

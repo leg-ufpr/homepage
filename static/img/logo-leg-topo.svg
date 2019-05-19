@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="184mm"
+   height="51mm"
+   viewBox="0 0 695.43306 192.7559"
+   sodipodi:docname="logo-leg-topo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/walmes/Projects/site-leg/static/img/logo-leg-topo.png"
+   inkscape:export-xdpi="46.799999"
+   inkscape:export-ydpi="46.799999">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <circle
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle16"
+         cx="360.5"
+         cy="360.5"
+         r="363.17639" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1863"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.3092926"
+     inkscape:cx="244.52247"
+     inkscape:cy="17.559764"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     units="mm" />
+  <image
+     sodipodi:absref="/home/walmes/Projects/site-leg/static/img/leg.png"
+     xlink:href="leg.png"
+     width="721"
+     height="721"
+     preserveAspectRatio="none"
+     id="image10"
+     x="0"
+     y="0"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     clip-path="url(#clipPath14)"
+     transform="matrix(0.25847458,0,0,0.25847458,4.5826265,3.1978667)"
+     style="stroke-width:3.86885262" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.0918045px;line-height:85.00000238%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="226.51627"
+     y="57.571434"
+     id="text112"><tspan
+       sodipodi:role="line"
+       id="tspan110"
+       x="226.51627"
+       y="57.571434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000238%;font-family:palatino;-inkscape-font-specification:palatino;fill:#808080;fill-opacity:1;stroke-width:1px"
+       dx="-0.77504313">Laboratório de</tspan><tspan
+       sodipodi:role="line"
+       x="226.51627"
+       y="110.92995"
+       id="tspan114"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000238%;font-family:palatino;-inkscape-font-specification:palatino;fill:#808080;fill-opacity:1;stroke-width:1px">Estatística e</tspan><tspan
+       sodipodi:role="line"
+       x="226.51627"
+       y="164.28847"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000238%;font-family:palatino;-inkscape-font-specification:palatino;fill:#808080;fill-opacity:1;stroke-width:1px"
+       id="tspan120">Geoinformação</tspan></text>
+</svg>
