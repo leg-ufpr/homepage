@@ -5,6 +5,6 @@ rsync -avzp \
       ./public/ \
       --progress \
       --rsh="ssh -p$PATAXOP" \
-      "$PATAXO:/home/walmes/public_html/leg-site"
+      "$WEBLEG@$PATAXO:/home/$WEBLEG/"
 
 exit 0
