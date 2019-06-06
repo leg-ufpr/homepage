@@ -26,10 +26,39 @@ paginate = 10
     url  = "/"
     weight = 1
 
+[[menu.main]] #------------------------------
+    name = "O LEG"
+    identifier = "main_leg"
+    weight = 2
+
 [[menu.main]]
+    parent = "main_leg"
+    name = "História"
+    url  = "/historia/"
+    weight = 1
+
+[[menu.main]]
+    parent = "main_leg"
+    name = "Pessoas"
+    url  = "/pessoas/"
+    weight = 2
+
+[[menu.main]]
+    parent = "main_leg"
+    name = "Estrutura"
+    url  = "/estrutura/"
+    weight = 3
+
+[[menu.main]]
+    parent = "main_leg"
+    name = "Consultoria"
+    url  = "/consultoria/"
+    weight = 4
+
+[[menu.main]] #------------------------------
     name = "Ensino"
     identifier = "main_ensino"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     parent = "main_ensino"
@@ -55,7 +84,7 @@ paginate = 10
     url  = "/videos/"
     weight = 4
 
-[[menu.main]]
+[[menu.main]] #------------------------------
     name = "Projetos"
     identifier = "main_projetos"
     weight = 3
@@ -72,18 +101,13 @@ paginate = 10
     url  = "/cooperacoes/"
     weight = 2
 
-[[menu.main]]
-    name = "Pessoas"
-    url  = "/pessoas/"
-    weight = 4
-
-[[menu.main]]
+[[menu.main]] #------------------------------
     name = "Publicações"
     # identifier = "publications"
     url  = "/publicacoes/"
     weight = 4
 
-[[menu.main]]
+[[menu.main]] #------------------------------
     name = "Agenda"
     url  = "/agenda/"
     weight = 5
@@ -129,8 +153,8 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "LEG Core Team"
-    defaultKeywords = ["RStats", "GnuEmacs", "Linux"]
-    defaultDescription = "LEG's Website"
+    defaultKeywords = ["R Stats", "Gnu Emacs", "Linux", "Statistics"]
+    defaultDescription = "LEG's Webpage"
 
     # Google Maps API key (if not set will default to not passing a key.)
     # googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -152,11 +176,15 @@ paginate = 10
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     #
-    # Enable the contact form by entering your Formspree.io email
+    # Enable the contact form by entering your Formspree.io email
     email = "leg.ufpr@gmail.com"
 
-    about_us = """<p>Geoinformation and Statistics Laboratory<br>Department of Statistics<br>Federal University of Paraná, Brazil.</p>
-        <img src='http://www.ufpr.br/portalufpr/wp-content/themes/wpufpr_zurb6_portalufpr/images/logo_ufpr_branca.png' width='240px'/>"""
+    about_us = """<p>
+                     Geoinformation and Statistics Laboratory<br>
+                     Department of Statistics<br>
+                     Federal University of Paraná, Brazil
+                  </p>
+                  <img src='http://www.ufpr.br/portalufpr/wp-content/themes/wpufpr_zurb6_portalufpr/images/logo_ufpr_branca.png' width='240px'/>"""
     copyright = "Copyright (c) 2018; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -188,13 +216,8 @@ paginate = 10
 # Enable or disable top bar with social icons
 
 [params.topbar]
-    enable = true
-    text = ""
-    # text = """<p class="hidden-sm hidden-xs">Contact me on +55 41 3361 3573 or walmes@ufpr.br.</p>
-    #   <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-    #   <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-    #   </p>
-    #   """
+    enable = false
+    text = """<p class="hidden-sm hidden-xs">+55 41 3361 3573 · leg.ufpr AT gmail.com.</p>"""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -202,45 +225,45 @@ paginate = 10
     tags = true
     search = true
 
-# [params.carousel]
-#     enable = true
-#     # All carousel items are defined in their own files. You can find example items
-#     # at 'exampleSite/data/carousel'.
-#     # For more informtion take a look at the README.
+[params.carousel]
+    enable = false
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
 
-# [params.features]
-#     enable = true
-#     # All features are defined in their own files. You can find example items
-#     # at 'exampleSite/data/features'.
-#     # For more informtion take a look at the README.
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
 
-# [params.testimonials]
-#     enable = true
-#     # All testimonials are defined in their own files. You can find example items
-#     # at 'exampleSite/data/testimonials'.
-#     # For more informtion take a look at the README.
-#     title = "Testimonials"
-#     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
-# [params.see_more]
-#     enable = true
-#     icon = "fa fa-file-code-o"
-#     title = "Do you want to see more?"
-#     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-#     link_url = "#"
-#     link_text = "Check other homepages"
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
 
-# [params.clients]
-#     enable = true
-#     # All clients are defined in their own files. You can find example items
-#     # at 'exampleSite/data/clients'.
-#     # For more informtion take a look at the README.
-#     # title = "Our Clients"
-#     # subtitle = ""
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    # title = "Our Clients"
+    # subtitle = ""
 
-# [params.recent_posts]
-#     enable = false
-#     title = "From my blog"
-#     subtitle = "Some posts abou Statistics, R, GNU Emacs, Linux. Enjoy!"
+[params.recent_posts]
+    enable = false
+    title = "From my blog"
+    subtitle = "Some posts abou Statistics, R, GNU Emacs, Linux. Enjoy!"
 
 #-----------------------------------------------------------------------
