@@ -66,6 +66,10 @@ p.institution {
     margin: -0.75em 0 10px;
 }
 
+.box-simple h3 {
+    text-transform: none;
+}
+
 .box-simple .icon,
 .box-simple h3 {
     color: var(--wz-color6);
@@ -76,6 +80,18 @@ p.institution {
 .box-simple:hover h3 {
     color: var(--wz-color1);
     border-color: var(--wz-color1);
+}
+
+a.box-simple:hover {
+    text-decoration: unset;
+}
+
+.box-simple .icon {
+    font-size: 24px;
+}
+
+.icon {
+    border-radius: 20px;
 }
 
 .text-uppercase,
