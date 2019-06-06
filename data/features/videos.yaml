@@ -1,0 +1,6 @@
+weight: 6
+name: "Vídeos"
+icon: "fa fa-youtube"
+url: "./videos/"
+description: |
+  Assista aos vídeos de aulas, conferências e webnários.

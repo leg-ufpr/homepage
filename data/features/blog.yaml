@@ -1,0 +1,6 @@
+weight: 10
+name: "Blog"
+icon: "fa fa-wordpress"
+url: "http://blog.leg.ufpr.br"
+description: |
+  Confira as matérias no nosso blog.

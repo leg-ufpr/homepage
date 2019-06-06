@@ -1,0 +1,6 @@
+weight: 2
+name: "Agenda"
+icon: "fa fa-calendar"
+url: "./agenda/"
+description: |
+  Fique por dentro das atividades consultando a agenda.

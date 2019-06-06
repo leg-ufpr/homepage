@@ -1,0 +1,7 @@
+weight: 8
+name: "Aplicações em Shiny"
+icon: "fa fa-mouse-pointer"
+# icon: "fa fa-play-circle"
+url: "http://shiny.leg.ufpr.br/"
+description: |
+  Consulte material didático sobre a linguagem R e dicas de Linux.

@@ -1,0 +1,11 @@
+weight: 1
+name: "Suporte"
+# icon: "fa fa-pencil"
+# icon: "fa fa-link"
+# icon: "fa fa-eye"
+# icon: "fa fa-comments"
+# icon: "fa fa-cogs"
+icon: "fa fa-compass"
+url: "./"
+description: |
+  Obtenha orientação para sua pesquisa ou negócio.

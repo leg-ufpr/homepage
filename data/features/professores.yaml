@@ -1,0 +1,6 @@
+weight: 4
+name: "Professores"
+icon: "fa fa-group"
+url: "./pessoas/"
+description: |
+  Acesse a página individual dos professores para detalhes.

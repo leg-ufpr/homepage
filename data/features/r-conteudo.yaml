@@ -1,0 +1,7 @@
+weight: 3
+name: "R & Linux"
+# icon: "fa fa-terminal"
+icon: "fa fa-linux"
+url: "http://leg.ufpr.br/doku.php/sofware:material-r"
+description: |
+  Consulte material didático sobre a linguagem R e dicas de Linux.

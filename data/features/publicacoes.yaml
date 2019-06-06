@@ -1,0 +1,6 @@
+weight: 5
+name: "Publicações"
+icon: "fa fa-book"
+url: "./publicacoes/"
+description: |
+  Acesse os artigos publicados e material suplementar.
