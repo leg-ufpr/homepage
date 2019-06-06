@@ -94,9 +94,9 @@ Lista com a descriação de cada aula e links relacionados.
 10. Aula 10
    * Data: 22/05/2019.
    1. [Vídeo da Parte I](https://youtu.be/2-LcQdx6HqE).
-     * Tema: Pesquiza Reprodizível
+     * Tema: Pesquiza Reproduzível
      * Ministrante: Fernando de Pol Mayer (DEST)
-   2. [Vídeo da Parte II]().
+   2. [Vídeo da Parte II](https://youtu.be/6gVWOIBZhrM).
      * Tema: Análise de regressão
      * Ministrante: Paulo Justiniano (DEST)
 11. [Video da Aula 11]().
@@ -106,7 +106,7 @@ Lista com a descriação de cada aula e links relacionados.
 12. Aula 12
    * Data: 05/06/2019.
    1. [Vídeo da Parte I]().
-     * Tema: Introdução ao aprendizado de máquina (//machine learning//)
+     * Tema: Introdução ao aprendizado de máquina ("machine learning")
      * Ministrante: Luiz Eduardo (DInf)
    2. [Vídeo da Parte II]().
      * Tema: Fundamentos da análise de experimentos
