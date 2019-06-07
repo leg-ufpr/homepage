@@ -1,7 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Average+Sans&display=swap'); */
 
 body {
-   font-family: 'Fira Sans', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
+    /* font-family: 'Average Sans', sans-serif; */
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    /* font-family: 'Average Sans', sans-serif; */
 }
 
 #heading-breadcrumbs h1 {
@@ -14,6 +21,10 @@ body {
     background: url('../img/voronoi.png')   center center repeat;
     padding: 1px 0;
     margin-bottom: 40px;
+}
+
+section.bar ~ footer#footer {
+    margin-top: 0em;
 }
 
 #footer {
@@ -52,10 +63,6 @@ table.skills tr:hover {
 .ul-interests, .ul-edu {
     text-align: left;
 }
-
-/* ul.ul-edu li .description p.institution {
-    font-size: 90%;
-} */
 
 .box {
     background: unset;
