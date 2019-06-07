@@ -1,0 +1,3 @@
+name: "GNU Emacs"
+image: "img/clients/logo-gnu-emacs.png"
+url: "https://www.gnu.org/software/emacs/"

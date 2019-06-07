@@ -6,7 +6,7 @@ theme = "hugo-universal-theme"
 themesDir = "./themes/"
 languageCode = "pt-br"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt-br"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "web.leg.ufpr.br"
 # Enable Google Analytics by entering your tracking code
@@ -254,12 +254,12 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = false
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    # title = "Our Clients"
-    # subtitle = ""
+    title = "We are made of free software"
+    # subtitle = "Com os quais trabalhamos"
 
 [params.recent_posts]
     enable = false
