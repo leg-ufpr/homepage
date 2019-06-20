@@ -10,3 +10,17 @@ description: |
   * Assunto 1.
   * Assunto 2.
   * Assunto 3.
+
+weight: 2
+name: "Estatística básica (CE001, CE003 e CE009)"
+instructor: "Wagner Bonat, Fernando Mayer, Elias Krainski"
+workload: "60 hrs"
+semester: "Todos"
+url: http://cursos.leg.ufpr.br/estbas
+image: "../img/logo-leg-circle.png"
+description: |
+
+  * Estatística descritiva.
+  * Introdução a probabilidade e variáveis aleatórias.
+  * Noções de inferência estatística.
+
