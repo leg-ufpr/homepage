@@ -99,19 +99,24 @@ Lista com a descriação de cada aula e links relacionados.
    2. [Vídeo da Parte II](https://youtu.be/6gVWOIBZhrM).
      * Tema: Análise de regressão
      * Ministrante: Paulo Justiniano (DEST)
-11. [Video da Aula 11]().
+11. [Video da Aula 11](https://youtu.be/pnghvWivljc).
    * Data: 29/05/2019.
    * Tema: Modelos de avaliação e TRI - Teoria de resposta ao ítem
    * Ministrante: Adilson dos Anjos (DEST)
 12. Aula 12
    * Data: 05/06/2019.
-   1. [Vídeo da Parte I]().
+   1. [Vídeo da Parte I](https://youtu.be/OzFz81WJ7uE).
      * Tema: Introdução ao aprendizado de máquina ("machine learning")
      * Ministrante: Luiz Eduardo (DInf)
-   2. [Vídeo da Parte II]().
-     * Tema: Fundamentos da análise de experimentos
+   2. [Vídeo da Parte II](https://youtu.be/mssgwnoj2Cc).
+     * Tema: Fundamentos da análise de experimentos (1/2)
      * Ministrante: Walmes Zeviani (DEST) 
-13. [Video da Aula 13]().
+13. [Video da Aula 13](https://youtu.be/KShpkFPOs0E).
    * Data: 12/06/2019.
    * Tema: CART - Árvores de Regressão e Classificação
    * Ministrante: César Taconeli (DEST)
+14. [Video da Aula 14](https://youtu.be/51128tizG9M).
+   * Data: 19/06/2019.
+   * Tema: Fundamentos da análise de experimentos (1/2)
+   * Ministrante: Walmes Zeviani (DEST) 
+
