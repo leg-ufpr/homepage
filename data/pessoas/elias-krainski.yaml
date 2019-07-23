@@ -8,17 +8,16 @@ researchgate: "https://www.researchgate.net/profile/Elias_Krainski"
 linkedin: "https://www.linkedin.com/in/elias-krainski-55b67aa7/"
 github: "https://github.com/eliaskrainski"
 description: |
-profession: Professor, UFPR (2009 -- atual)
+profession: Professor Adjunto, UFPR (2009 -- atual)
 institution: Departamento de Estatística
 education: |
   * Mestrado em Estatística, Universidade Federal de Minas Gerais
-    (2013).
+    (2008).
   * PhD in Mathematical Sciences, Norwegian University of Science and
     Technology (2018).
 domains: |
   * Métodos estatísticos.
-  * Inteligência computacional.
 interests: |
-  * Estatística espacial.
-  * Modelos espaço-temporais.
+  * Estatística espacial e espaço-temporal.
+  * Modelos hierárquicos gaussianos latentes.
   * Inferência bayesiana com INLA.
