@@ -1,0 +1,16 @@
+weight: 2
+name: "CE 092 · Extensões de Modelos de Regressão"
+instructor: "[Paulo Justianiano](http://leg.ufpr.br/~paulojus) & [Walmes Zeviani](http://leg.ufpr.br/~walmes)"
+workload: "60 hrs"
+semester: "Curso de Estatística - 8º semestre · UFPR"
+url: http://web.leg.ufpr.br/ensino/EMR/
+image: "http://web.leg.ufpr.br/ensino/EMR/config/logo-site.png"
+description: |
+
+  * Modelos de regressão local, splines e aditivos generalizados.
+  * Modelos não lineares.
+  * Modelos para dados heterocedáticos e correlacionados.
+  * Modelos de regressão quantílica.
+  * Modelos de árvores de regressão e classificação.
+  * Modelos de redes neurais.
+  * Introdução aos modelos de regressão multivariados.

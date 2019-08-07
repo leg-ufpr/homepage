@@ -1,0 +1,13 @@
+weight: 1
+name: "CE 074 · Controle de Processos Industriais"
+instructor: "[Walmes Zeviani](http://leg.ufpr.br/~walmes)"
+workload: "60 hrs"
+semester: "Curso de Estatística - 6º semestre · UFPR"
+url: http://web.leg.ufpr.br/ensino/CPI/
+image: "http://web.leg.ufpr.br/ensino/CPI/config/logo-site.png"
+description: |
+
+  * Experimentos fatorias gerais.
+  * Experimentos fatoriais $2^k$.
+  * Experimentos fatoriais $3^k$.
+  * Metododologia de superfície de resposta.

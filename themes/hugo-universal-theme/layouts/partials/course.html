@@ -30,11 +30,11 @@
 
             <ul class="fa-ul">
               {{ if .instructor }}
-              <li><i class="fa fa-li fa-user"></i> {{ $element.instructor }} </li>
+              <li><i class="fa fa-li fa-user"></i> {{ $element.instructor | markdownify }} </li>
               {{ end }}
 
               {{ if .instructors }}
-              <li><i class="fa fa-li fa-users"></i> {{ $element.instructors }} </li>
+              <li><i class="fa fa-li fa-users"></i> {{ $element.instructors | markdownify }} </li>
               {{ end }}
 
               {{ if .workload }}

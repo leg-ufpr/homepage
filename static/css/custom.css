@@ -187,11 +187,16 @@ img:hover.shadow {
     box-shadow: 1px 1px 5px #999999;
 }
 
+img.zoomout {
+    border-radius: 50%;
+}
+
 img:hover.zoomout {
     -webkit-transform: scale(0.95, 0.95);
     -ms-transform: scale(0.95, 0.95);
     -o-transform: scale(0.95, 0.95);
     transform: scale(0.95, 0.95);
+    border-radius: 50%;
 }
 
 /*---------------------------------------------------------------------- */
