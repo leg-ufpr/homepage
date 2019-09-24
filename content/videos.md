@@ -94,7 +94,7 @@ Lista com a descriação de cada aula e links relacionados.
 10. Aula 10
    * Data: 22/05/2019.
    1. [Vídeo da Parte I](https://youtu.be/2-LcQdx6HqE).
-     * Tema: Pesquiza Reproduzível
+     * Tema: Pesquisa Reproduzível
      * Ministrante: Fernando de Pol Mayer (DEST)
    2. [Vídeo da Parte II](https://youtu.be/6gVWOIBZhrM).
      * Tema: Análise de regressão
